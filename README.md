@@ -1,21 +1,22 @@
 # Hi, I'm Tony Dermawan 👋
 
-🎓 Student at UMSU  
-💻 Web Developer (HTML, CSS, JavaScript)  
-🐍 Learning Python  
+IT Student at UMSU passionate about web development and programming.
 
-## 🚀 Skills
+## Skills
 - HTML
 - CSS
 - JavaScript
-- Python
+- PHP
+- MySQL
+- GitHub
 - Canva Design
 - Video Editing
 
-## 📚 Currently Learning
-- JavaScript Projects
-- Python Programming
-- Web Development
+## My Projects
+- Todo List Web App
+- Modern Landing Page
+- Admin Dashboard
+- Student Management System
 
-## 📫 Contact
+## Contact
 Email: tonyanakbaik19@gmail.com
